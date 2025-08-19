@@ -59,10 +59,6 @@ Me apasiona crear soluciones eficientes, escalables y fáciles de usar, siempre 
 </p>
 
 ---
-## 📈 Actividad
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JosFer720&theme=radical)
-
----
 ## 📌 Repositorios Populares
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=JosFer720&repo=GS-Stock-y-Facturacion-Frontend&theme=radical)](https://github.com/JosFer720/GS-Stock-y-Facturacion-Frontend)
 ---
