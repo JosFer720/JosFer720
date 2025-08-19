@@ -24,7 +24,7 @@ Me apasiona crear soluciones eficientes, escalables y fáciles de usar, siempre 
 ---
 
 ## 🔥 Racha de Contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=JosFer720&theme=radical)
+![Contribuciones de JosFer720](https://raw.githubusercontent.com/JosFer720/JosFer720/output/github-contribution-grid-snake.svg)
 
 ---
 
