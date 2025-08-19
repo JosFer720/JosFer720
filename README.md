@@ -1,4 +1,11 @@
-# 👋 Hola, soy JosFer720
+# 👋 Hola, soy JosFer720  
+
+## 💻 Sobre mí  
+Soy **desarrollador Full Stack** con experiencia en el desarrollo de **sistemas ERP**, aplicaciones web y herramientas empresariales.  
+Me especializo en el desarrollo **frontend** con **Vue, React, HTML5 y CSS3**, y en el **backend** con **Express y Node.js**.  
+Además, tengo amplia experiencia en el manejo de bases de datos relacionales como **PostgreSQL**.  
+
+Me apasiona crear soluciones eficientes, escalables y fáciles de usar, siempre cuidando las buenas prácticas de desarrollo y la calidad del código.  
 
 ---
 
@@ -23,10 +30,6 @@
 
 ## 🛠️ Lenguajes y Tecnologías
 <p align="left">
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <!-- HTML -->
@@ -55,9 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
-
 ---
 
-## 📬 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernando--ruiz--6a0109262-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-ruiz-6a0109262)
+## 📬 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernando--ruiz--6a0109262-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernando-ruiz-6a0109262)  
 [![Email](https://img.shields.io/badge/Email-ferestrada24%40icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferestrada24@icloud.com)
